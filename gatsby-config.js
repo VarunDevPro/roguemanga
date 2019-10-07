@@ -24,7 +24,7 @@ module.exports = {
           {
             resolve: `gatsby-remark-images`,
             options: {
-              sizeByPixelDensity: true,
+              // sizeByPixelDensity: true,
               wrapperStyle: `margin-bottom:1em;`,
               backgroundColor: `transparent`,
               withWebp: true,
